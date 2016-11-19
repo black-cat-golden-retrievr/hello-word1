@@ -1,2 +1,4 @@
 # hello-word1
-just another repository
+
+hi-humans
+black-cat here, I like python
